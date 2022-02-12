@@ -3,18 +3,12 @@ import random
 while True:
     # Print Title
     print("Let's Play Rock Paper Scissors!")
-
     # Specify the three options
     options = ["Rock", "Paper", "Scissors"]
-
     # Computer Selection
     computer_choice = random.choice(options)
-
     # User Selection
-
     user_choice = input("Make your Choice: Rock, Paper, Scissors? ")
-
-
     # Run Conditionals
     if computer_choice == user_choice : 
         print("Game Tie")
