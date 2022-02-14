@@ -8,20 +8,23 @@ In this project, I will be assisting a Colorado Board of Elections employee Tom 
 ### Purpose of The Election Audit Analysis:
 
 My task is to provide Colorado Board of Elections with following Audit Results:
+* Total number of votes cast
+* A complete list of candidates who received votes
+* Total number of votes each candidate received
+* Percentage of votes each candidate won
+* The winner of the election based on popular vote
 
-    *Total number of votes cast
-    *A complete list of candidates who received votes
-    *Total number of votes each candidate received
-    *Percentage of votes each candidate won
-    *The winner of the election based on popular vote
+Eventually, present Winner of the Election based on Popular Vote. 
 
-Eventually present Winner of the Election based on Popular Vote. 
-
-# Election Audit Results :
+## Election Audit Results :
 
 #### How many votes were cast in this congressional election?
 
 The total number of valid votes were casted was 369,711 in this election.
+
+<p align= "center">
+           <img width="196" alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/153905985-2ad1f04c-53a6-4360-aeaa-9581cd33c41e.png">
+           </p>
 
 #### The number of votes and the percentage of total votes for each county in the precinct.
 
