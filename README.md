@@ -5,7 +5,7 @@
 In this project, I will be assisting a Colorado Board of Elections employee Tom in an election audit of the tabulated results for U.S Congressional Precinct in Colorado. 
 
 
-### Purpose of The Election Audit Analysis:
+#### Purpose of The Election Audit Analysis:
 
 My task is to provide Colorado Board of Elections with following Audit Results:
 * Total number of votes cast
@@ -59,7 +59,7 @@ The total number of valid votes were casted was 369,711 in this election.
 <p align= "center">
 <img width="306" alt="Screen Shot 2022-02-14 at 11 15 39 AM" src="https://user-images.githubusercontent.com/98676400/153913339-4cdcabd8-0138-4aa1-84eb-0c9e67eec543.png"></p>
 
-##### Winner of the Election :
+#### Winner of the Election :
 * Name: Diana DeGette
     * Vote Count: 272,892
     * Percentage of total VOtes : 73.8%
@@ -68,3 +68,10 @@ The total number of valid votes were casted was 369,711 in this election.
 
 <p align= "center">
 <img width="267" alt="Screen Shot 2022-02-14 at 11 10 57 AM" src="https://user-images.githubusercontent.com/98676400/153912458-123c44b0-8cfe-486b-8fdb-9887dd7e74f2.png"> </p>
+
+## Election-Audit Summary :
+
+We can apply similar algorithm to State Elections for Governor and Lieutenant Governor usiung direct popular votes as we did in this election. 
+
+
+
