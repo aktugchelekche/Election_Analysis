@@ -65,13 +65,18 @@ The total number of valid votes were casted was 369,711 in this election.
     * Percentage of total VOtes : 73.8%
 
 
-
 <p align= "center">
 <img width="267" alt="Screen Shot 2022-02-14 at 11 10 57 AM" src="https://user-images.githubusercontent.com/98676400/153912458-123c44b0-8cfe-486b-8fdb-9887dd7e74f2.png"> </p>
 
 ## Election-Audit Summary :
 
-We can apply similar algorithm to State Elections for Governor and Lieutenant Governor usiung direct popular votes as we did in this election. 
+For this election, as it is predictable that the candidate who captured more votes from Denver County (the largest county) won the election with popular vote counts. As long as we are provided with resources,this script can be used for similar election types. 
+
+<p align="center"> <img width="300" alt="Screen Shot 2022-02-15 at 8 22 11 AM" src="https://user-images.githubusercontent.com/98676400/154081641-bdf09327-5d34-4577-81b2-6f1edf8945e6.png"></p>
+
+We can apply the script to State Elections for Governor and Lieutenant Governor using direct popular votes from districts as we did in this election. Also, by changing county votes to state, it is feasible to use this for Senates and House election. However, if we want to implement this script to Presidential election, there must be some refactoring of codes and changes on it due to Electoral versus Popular votes. Since U.S use winner takes all idea, Popular votes dose not always determine the winner as it happened in 2016 and 2000 election. 
+
+
 
 
 
